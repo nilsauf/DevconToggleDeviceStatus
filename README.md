@@ -1,4 +1,4 @@
-# DevconToggleDeviceStatus
+# Powershell Enable/Disable Device
 A set of windows powershell scripts to enable/disable a device from device manager
 
 ## Preparation
